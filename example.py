@@ -12,7 +12,7 @@ def print_name(name="name"):
     print(f'私の名前は{name}です')
 
 
-print_name()
+print_name("まつかん")
 
 
 def get_greet():
